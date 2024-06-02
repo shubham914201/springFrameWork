@@ -1,0 +1,3 @@
+spring.application.name=firstProject
+spring.mvc.view.prefix=/webapp/
+spring.mvc.view.suffix=.jsp

@@ -1,0 +1,6 @@
+package com.mavin.shubham;
+public class Bike {
+public void ride() {
+	
+}
+}

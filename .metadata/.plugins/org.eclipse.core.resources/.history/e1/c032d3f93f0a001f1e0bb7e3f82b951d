@@ -1,0 +1,15 @@
+package com.mavin.shubham;
+
+/**
+ * Hello world!
+ *
+ */
+public class App 
+{
+    public static void main( String[] args )
+    {
+          ApplicationContext context=new ClassPathXml
+    	Vehicle obj=new getBean("Vehicle");
+    	obj.drive();
+    }
+}

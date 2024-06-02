@@ -1,0 +1,14 @@
+package com.mavin.shubham;
+
+import org.springframework.context.ApplicationContext;
+import org.springframework.context.support.ClassPathXmlApplicationContext;
+
+public class QueOne {
+	 public static void main( String[] args )
+	    {
+	    	Vehicle obj=new car("vehicle");
+	    	obj.drive();
+	    }
+	}
+
+}

@@ -1,0 +1,6 @@
+package com.mavin.shubham;
+public class Bike implements Ve {
+public void ride() {
+	System.out.println("Bike is moving fast");
+}
+}

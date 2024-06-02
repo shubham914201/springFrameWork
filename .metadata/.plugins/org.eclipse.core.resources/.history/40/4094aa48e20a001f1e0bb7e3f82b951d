@@ -1,0 +1,16 @@
+package com.mavin.shubham;
+public class Tyre_2 {
+    private String brand;
+    public String 
+	public String getBrand() {
+		return brand;
+	}
+
+	public void setBrand(String brand) {
+		this.brand = brand;
+	}
+
+	
+	  @Override public String toString() { return "Tyre [brand=" + brand + "]"; }
+	
+}

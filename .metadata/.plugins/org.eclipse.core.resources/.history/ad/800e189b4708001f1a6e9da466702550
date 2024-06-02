@@ -1,0 +1,11 @@
+package com.example.demo;
+
+import org.springframework.web.bind.annotation.PostMapping;
+
+@connector
+public class webConnector {
+	@PostMapping("/")
+     public String index() {
+    	 return "index.jsp";
+     }
+}

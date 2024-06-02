@@ -1,0 +1,9 @@
+package com.example.demo;
+
+@Connector
+public class webConnector {
+	@postMapping
+     public String index() {
+    	 return "index.jsp";
+     }
+}

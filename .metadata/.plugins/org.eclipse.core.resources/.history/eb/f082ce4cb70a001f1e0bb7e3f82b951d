@@ -1,0 +1,8 @@
+package com.mavin.shubham;
+
+import or
+public class Car implements Vehicle {
+      public void drive() {
+    	  System.out.println("The car is running");
+      }
+}
